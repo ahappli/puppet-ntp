@@ -1,0 +1,15 @@
+{
+  "name": "ahappli-ntp",
+  "version": "0.1.0",
+  "author": "ahappli",
+  "summary": "This is a genera\b\b\b\b\b\bNTP module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ahappli/puppet-ntp.git",
+  "project_page": "https://github.com/ahappli/puppet-ntp.git",
+  "issues_url": "https://github.com/ahappli/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
